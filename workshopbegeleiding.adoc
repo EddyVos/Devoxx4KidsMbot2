@@ -1,0 +1,55 @@
+ifndef::imagesdir[:imagesdir: images]
+:nofooter:
+
+== Laptops preppen
+
+=== mBlock IDE installeren
+Download mBlock van https://mblock.makeblock.com/en-us/download/ en installeer.
+
+=== mBlock IDE configureren
+Start mBlock op en configureer het volgende:
+
+
+image:voorbereiding01.png[voorbereiding,200,100] Klik op het wereldbolletje en selecteer de taal NEDERLANDS
+
+image:voorbereiding02.png[voorbereiding02,100,50] Klik bij Apparaten op de X van de CyberPi om die te verwijderen.
+
+Klik vervolgens op de + van toevoegen
+
+image:voorbereiding03.png[voorbereiding03,400,200] Selecteer de MBOT en klik op OK
+
+image:voorbereiding04.png[] Klik op de + van extensie
+
+image:voorbereiding05.png[voorbereiding05,200,100] Klik op Apparaat extensies en klik op toevoegen van 'mBlock 3 blokken'
+
+image:Extentie_licht_geluid.PNG[lichtgeluid,100,50] Klik op Apparaat extensies en klik op toevoegen van 'Licht Geluid'
+
+image:voorbereiding06.png[voorbereiding06,100,50] Klik op Apparaat extensies en klik op toevoegen van 'Arduino Extensie'
+
+== Begeleidersinstructie
+Hieronder vind je alle opdrachtkaarten in volgorde. Deel tijdens workshop de opdrachtkaarten _per opdracht_ uit aan de
+groepjes. Neem ze aan het einde van een opdracht weer in en deel dan de kaarten voor de volgende opdracht uit.
+
+Als *introductie* begin je met een korte presentatie waarin je vraagt/uitlegt wat een robot eigenlijk is. (_Een door een
+computer bestuurde machine met sensoren._) Verder introduceer je de mCore computer, het mBot chassis (met alleen de
+motoren, wielen, lijnsensor en support-studs voor de mCore voorgemonteerd) en de mBlock-programmeeromgeving. (_Een
+computerprogramma om computerprogramma's mee te maken._)
+
+Voor *hoofdstuk 1* hebben de kinderen alleen de mCore Arduino module nodig en de 2.4G dongle (al in de laptop gestoken).
+
+In *hoofdstuk 2* monteren de kinderen eerst de mCore op de mBot. Ze maken dan een programmaatje om de mBot handmatig over
+het circuit te sturen met de pijltjestoetsen van de laptop.
+
+In *hoofdstuk 3* gaan ze de besturing automatiseren door de lijnvolgsensor te gebruiken. Aan het begin van de opdracht
+moet je even het verschil uitleggen tussen de interactieve modus van de mCore met het
+image:blokje/groene-vlag.png[Groene Vlag, 100]-blokje gecombineerd met de 2.4G dongle en de uploadmodus met het
+image:blokje/mbot-programma.png[mBot Programma, 70]-blokje en de USB-kabel.
+
+In *hoofdstuk 4* ten slotte monteren de kinderen eerst de ultrasone afstandssensor. Je kunt hiervoor wat uitleg geven
+door een vergelijking met vleermuizen te maken. Ze breiden vervolgens het programma van de vorige opdracht uit met code
+om te reageren op een hindernis die zich op het parcours kan bevinden. Een koe die oversteekt?
+
+:sectnums: 3
+
+// page break
+<<<
