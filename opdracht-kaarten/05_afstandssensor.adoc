@@ -1,0 +1,33 @@
+ifndef::imagesdir[:imagesdir: ../images]
+:nofooter:
+
+== Er Staat een Koe op de Weg!
+
+[.lead]
+_Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor._
+
+=== Lorum Ipsum Dolor Sit Amet
+Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque
+sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
+
+.Stap 1
+Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
+
+.Stap N
+Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat
+at massa.
+
+====
+[discrete]
+== *Zelf verzinnen* image:icon/owl.png[float="right"]
+***
+.Nubis et posuere
+Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec
+elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis.
+====
+
+=== Eindresultaat
+Je programma zou er nu zo uit moeten zien:
+image:opdracht4/eindresultaat.png[]
+
+Zet eens twee mBots op het weiland en kijk wat er gebeurt. Lukt het ze om allebei om het weiland rond te rijden zonder te botsen?
